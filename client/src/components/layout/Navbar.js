@@ -51,8 +51,9 @@ const Navbar = ({ auth: { isAuthenticated, loading }, logout }) => {
     <nav className='navbar bg-dark'>
       <h1>
         <Link to='/'>
-          <i className='fas fa-code-branch' /> DevConnections
+          <i className='fas fa-code' /> DevConnections
         </Link>
+        
       </h1>
 
       {!loading && <>{isAuthenticated ? authLinks : guestLinks}</>}
