@@ -1,6 +1,7 @@
-# DevBook
+# Dev Connections
+A small social network for developers built with the MERN stack. Includes authentication using JWT web tokens. The app uses Redux for client-side state management.
 
-[![time tracker](https://wakatime.com/badge/github/Mugilan-Codes/dev-book.svg)](https://wakatime.com/badge/github/Mugilan-Codes/dev-book)
+You can check out the live project by clicking here.
 
 ## Web Programming Project
 
@@ -18,4 +19,4 @@
 
 ### Created By
 
-    Mugilan E.S.
+    Ali Ahmad
