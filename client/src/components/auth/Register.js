@@ -76,7 +76,7 @@ const Register = ({ setAlert, register, isAuthenticated }) => {
           />
 
           <small className='form-text'>
-            Enter yout Github username for a DP eg.Mugilan-Codes
+            Enter yout Github username for a DP mian-ali
           </small>
         </div>
 
