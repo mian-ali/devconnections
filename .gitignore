@@ -1,5 +1,7 @@
 node_modules/
 config/default.json
+.env
+env
 
 
 # client
