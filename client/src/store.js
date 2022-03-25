@@ -4,7 +4,6 @@ import thunk from 'redux-thunk';
 
 import rootReducer from './reducers';
 import setAuthToken from './utils/setAuthToken';
-
 const initialState = {};
 const middleware = [thunk];
 

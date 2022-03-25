@@ -1,6 +1,8 @@
 node_modules/
 config/default.json
-config/production.json
+.env
+env
+
 
 # client
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
