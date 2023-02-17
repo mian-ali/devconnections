@@ -6,7 +6,7 @@ You can check out the live project by clicking [here](https://jealous-pea-coat-b
 ### TODO
 
 - Better Logging
-- Fetch Popular Github repos
+- Fetch Popular Github Repos
 
 ### Technologies Used
 
