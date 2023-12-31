@@ -16,7 +16,7 @@ You can check out the live project by Clicking [here](https://jealous-pea-coat-b
 - [NodeJS](https://nodejs.org/en/)
 
 
-# Quick Start
+## Quick Start
 
 ### Add a default.json file in config folder with the following
 
