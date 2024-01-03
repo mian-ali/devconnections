@@ -3,12 +3,12 @@ A small social network for developers built with the MERN stack. Includes authen
 
 You can check out the live project by Clicking [here](https://jealous-pea-coat-boa.cyclic.app/)
 
-### TODO
+## TODO
 
 - Better Logging
 - Fetch Popular Github Repos
 
-### Technologies Used
+## Technologies Used
 
 - [MongoDB](https://www.mongodb.com/)
 - [ExpressJS](https://expressjs.com/)
