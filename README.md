@@ -6,7 +6,7 @@ You can check out the live project by Clicking [here](https://jealous-pea-coat-b
 ## TODO
 
 - Better Logging
-- Fetch Popular Github Repos
+- Fetch Popular GitHub Repos
 
 ## Technologies Used
 
@@ -18,7 +18,7 @@ You can check out the live project by Clicking [here](https://jealous-pea-coat-b
 
 ## Quick Start
 
-### Add a default.json file in config folder with the following
+### Add a default.json file in the config folder with the following
 
 ```
 {
