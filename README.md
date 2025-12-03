@@ -63,4 +63,4 @@ NODE_ENV=production node server.js
 
 ### Created By
 
- [Ali Ahmad](https://www.aliahmad.co)
+ [Ali Ahmad]
